@@ -15,8 +15,11 @@
     "@fontsource/roboto": "^5.0.12",
     "@mui/icons-material": "^5.15.12",
     "@mui/material": "^5.15.12",
+    "chatbot": "^1.2.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-simple-chatbot": "^0.6.1",
+    "simple": "^0.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
